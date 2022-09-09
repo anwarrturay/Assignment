@@ -1,0 +1,33 @@
+body{
+    background-color: gold;
+}
+
+nav{
+    color:yellow ;
+    font-size: 22px;
+}
+
+nav:hover{
+    color: red;
+}
+
+
+
+div{
+    color: blue;
+    font-size: 20px;
+}
+
+
+div:hover{
+    color: brown;
+    font-size: 22px;
+}
+h1{
+    color:green;
+    font-size: 20px;
+}
+h1:hover{
+    color: red;
+    font-size: 22px;
+}

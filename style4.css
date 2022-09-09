@@ -1,0 +1,71 @@
+body{
+    background-image: url("image.css/IMG_2823.JPG");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top;
+}
+
+div{
+    color: green;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+div:hover{
+    color:brown ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+span{
+    color: orange;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+span:hover{
+    color: yellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+nav ul{
+    float: top left;
+    text-align: left;
+    list-style: none;
+}
+
+nav li{
+    margin: 0 12px;
+    display: inline-block;
+    line-height: 20px;
+}
+
+nav a{
+    color: blue;
+    text-transform: uppercase;
+}
+
+a.active,a:hover{
+    border: 2px solid blue;
+    transition: 5s;
+}
+
+table{
+    border: 2px double gold;
+    margin: 5rem auto;
+
+}
+
+thead{
+    text-align: center;
+    
+}
+
+th{
+    padding: 1rem;
+}
+
+td{
+    padding: 1rem;
+}
+

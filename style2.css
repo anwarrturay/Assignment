@@ -1,0 +1,64 @@
+body{
+    background-color: gold;
+    background-image:url("image.css/KXCH7861.JPG");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top;
+    border-style: double;
+    border-radius: 5px;
+    border-width: 20px;
+}
+p{
+    margin: 40px;
+    padding: 50px;
+}
+
+body static-width{
+    height: 10px;
+}
+
+nav ul{
+    float: top left;
+    text-align: left;
+    list-style: none;
+}
+
+nav li{
+    margin: 0 10px;
+    display: inline-block;
+    line-height: 12px;
+}
+
+nav a{
+    color: blue;
+    text-transform: uppercase;
+}
+
+a.active, a:hover{
+    border: 1px solid red;
+    transition: 5s;
+}
+
+table{
+    border: 1px solid green;
+    margin: 2rem auto;
+}
+
+th{
+    padding: 1rem;
+}
+
+td{
+    padding: 1rem;
+}
+thead{
+    text-align: center;
+    
+}
+
+
+
+
+
+
+

@@ -1,0 +1,89 @@
+body{
+    
+    background-image: url("image.css/KXCH7861.JPG");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top;
+    border-style: double;
+    border-width: 20px;
+   
+}
+p{
+    color: green;
+    text-align: justify;
+    border-radius: 30px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+table{
+    
+    border: 1px solid rgb(128, 0, 122);
+    margin: 2rem auto;
+}
+
+th{
+    padding: 2rem;
+}
+
+td{
+    padding: 2rem;
+}
+
+span ul{
+    float: top right;
+    text-align: right;
+    list-style: none;
+}
+span li{
+    margin: 0 12px;
+    display: inline-block;
+    line-height: 12px;
+}
+span a{
+    color: blue;
+    text-transform: uppercase;
+}
+
+a.active,a:hover{
+    border: 1px solid black;
+    transition: 5s;
+}
+
+
+
+
+h1{
+    color: gold;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+div{
+    color: orangered;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+    
+}
+div:hover{
+    color: black;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav{
+    color: violet;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+nav:hover{
+    color: brown;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ol{
+    color: blueviolet;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
